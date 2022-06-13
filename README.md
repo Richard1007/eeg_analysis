@@ -1,6 +1,6 @@
 # eeg_analysis
 
-#### This is a brief summary of the work done in this github repository. For more detailed infomation, please refer to the jupyter notebook file "eeg.ipynb". <br/><br/> As I am completely new to the field of neuroscience, all the work done here only attempts to solve the problem, which may be wrong and misleading. Feel free to leave me a message for any correction. 
+#### This is a brief summary of the work done in this github repository. For more detailed infomation, please refer to the jupyter notebook file "eeg.ipynb". <br/><br/>  As I do not have neuroscience background, some of work done here could be wrong and misleading. Feel free to leave me a message for any correction. 
 
 ## 1. Collect 10 eeg raw data
 The data I use is an edf file, which can be found in the 'data' folder. 
